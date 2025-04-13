@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Task 1 for Testing",
+      "description": "This is a test task created via fixtures",
+      "status": "pending",
+      "dueDate": "2025-06-15"
+    },
+    {
+      "title": "Task 2 for Testing",
+      "description": "Another test task",
+      "status": "in-progress",
+      "dueDate": "2025-05-20"
+    }
+  ]
+  
